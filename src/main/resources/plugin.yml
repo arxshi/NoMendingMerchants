@@ -4,3 +4,4 @@ main: me.arahis.nomendingmerchants.NoMendingMerchants
 api-version: '1.20'
 commands:
   mending:
+    permission: mending.admin
